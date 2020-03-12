@@ -5,7 +5,9 @@
 **The goals / steps of this project are the following:**
 
 * Establish communication between c++ program and simulator via uWebSocketIO
-* Localization etc...
+* Using particle filter to find the location of the kidnapped vehicle.
+* Assign and update weight the particle for each step.
+* Resample the particles to remove the paritiles with small weight.
 
 
 [//]: # (Image References)
